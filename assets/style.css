@@ -2,7 +2,11 @@
     margin: 0;
     padding: 0;
    }
+<<<<<<< HEAD
 
+=======
+   
+>>>>>>> 409fc8fdc21df89448eb6dd6601b98f120f2987c
    header,
    footer {
     width: 100%;
@@ -10,12 +14,20 @@
     background-color: blue;
     color: white;
    }
+<<<<<<< HEAD
 
+=======
+   
+>>>>>>> 409fc8fdc21df89448eb6dd6601b98f120f2987c
    h1,
    h2 {
     text-align: center;
    }
+<<<<<<< HEAD
 
+=======
+   
+>>>>>>> 409fc8fdc21df89448eb6dd6601b98f120f2987c
    img {
     display: block;
     height: 50px;
@@ -23,11 +35,16 @@
     margin-left: auto;
     margin-right: auto;
    }
+<<<<<<< HEAD
 
+=======
+   
+>>>>>>> 409fc8fdc21df89448eb6dd6601b98f120f2987c
    ul {
     padding-left: 40px;
     font-size: 20px;
    }
+<<<<<<< HEAD
 
    p {
     text-align: center;
@@ -38,4 +55,10 @@
     margin: 40px auto;
     border: 5px solid gray;
     box-shadow: 5px 10px #888888;
+=======
+   
+   p {
+    text-align: center;
+    font-size: 30px;
+>>>>>>> 409fc8fdc21df89448eb6dd6601b98f120f2987c
    }
